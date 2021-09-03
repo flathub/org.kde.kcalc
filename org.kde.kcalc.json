@@ -34,8 +34,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.04.3/src/kcalc-21.04.3.tar.xz",
-                    "sha256": "cf389a1c4db1c7da8b5b7ecec030e9c68df5d950c581d91f3931b7f6d2a7cacf"
+                    "url": "https://download.kde.org/stable/release-service/21.08.1/src/kcalc-21.08.1.tar.xz",
+                    "sha256": "537f6b848b5f9dca66e8228ad3f9bb67f4a977d82e31e88abecfccd5c3ad236a"
                 }
             ]
         }
