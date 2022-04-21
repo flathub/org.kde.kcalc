@@ -36,12 +36,14 @@
         {
             "name": "kcalc",
             "buildsystem": "cmake-ninja",
-            "config-opts": ["-DINSTALL_ICONS=ON"],
+            "config-opts": [
+                "-DINSTALL_ICONS=ON"
+            ],
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/kcalc-21.12.3.tar.xz",
-                    "sha256": "986ca84e82fda9325171a84c8efd7fd4eb2a82e3082af536473db24f33fcd897",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/kcalc-22.04.0.tar.xz",
+                    "sha256": "2f57466f9bcdc08854df9a07fced3594b81bde6e3aa4a382ba42ac1d2ae6e7bd",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
