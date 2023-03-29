@@ -8,8 +8,8 @@
     "finish-args": [
         "--device=dri",
         "--share=ipc",
-        "--socket=wayland",
-        "--socket=x11"
+        "--socket=fallback-x11",
+        "--socket=wayland"
     ],
     "modules": [
         {
