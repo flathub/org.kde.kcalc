@@ -46,9 +46,9 @@
                     "sha256": "c11bec7523c56058be470b61d53fd7b3e5309fe680fe009f4c091a8b398bb812",
                     "x-checker-data": {
                         "type": "anitya",
-                        "project-id": 8763,
+                        "project-id": 368663,
                         "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kcalc-$version.tar.xz"
+                        "url-template": "https://download.kde.org/unstable/release-service/$version/src/kcalc-$version.tar.xz"
                     }
                 }
             ]
