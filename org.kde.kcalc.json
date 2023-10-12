@@ -42,8 +42,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.1/src/kcalc-23.08.1.tar.xz",
-                    "sha256": "c4c546988559fb631d67fb69c3b0f3eff635eedc6b43d4c4651124759b65c5db",
+                    "url": "https://download.kde.org/stable/release-service/23.08.2/src/kcalc-23.08.2.tar.xz",
+                    "sha256": "e3ea2dd2c32788ae327ab2e354307aba3475640cf60cfbe5df137c659db01f50",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
