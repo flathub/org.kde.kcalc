@@ -1,7 +1,7 @@
 {
     "id": "org.kde.kcalc",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.15-23.08",
+    "runtime-version": "6.6",
     "sdk": "org.kde.Sdk",
     "command": "kcalc",
     "rename-icon": "accessories-calculator",
@@ -42,8 +42,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/kcalc-23.08.5.tar.xz",
-                    "sha256": "e545d67389f25b480b4eff2c40617b4e97172717d297d86e5c07ff7a6317437e",
+                    "url": "https://download.kde.org/stable/release-service/24.02.0/src/kcalc-24.02.0.tar.xz",
+                    "sha256": "c19b639d632bee1edf3e9f832e7981f5671a12b464b4678ba52dbb1fff2fc7c5",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
