@@ -65,8 +65,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.1/src/kcalc-25.04.1.tar.xz",
-                    "sha256": "b88e31af67cd86a2aad836ce08a5231c4765e0a9f200e1244b2c34c84f24965c",
+                    "url": "https://download.kde.org/stable/release-service/25.04.2/src/kcalc-25.04.2.tar.xz",
+                    "sha256": "98f010a6615fe08cdada3b15d348519e9e892575fc3636a661029b317b3afd0d",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
