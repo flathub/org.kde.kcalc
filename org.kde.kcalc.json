@@ -11,6 +11,10 @@
         "--socket=fallback-x11",
         "--socket=wayland"
     ],
+    "cleanup": [
+        "/lib/*.a",
+        "/lib/*.la"
+    ],
     "modules": [
         {
             "name": "mpfr",
