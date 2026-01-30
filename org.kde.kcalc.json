@@ -12,8 +12,10 @@
         "--socket=wayland"
     ],
     "cleanup": [
-        "/lib/*.a",
-        "/lib/*.la"
+        "/share/doc",
+        "/share/info",
+        "*.la",
+        "*.a"
     ],
     "modules": [
         {
