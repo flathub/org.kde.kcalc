@@ -34,7 +34,7 @@
                         "type": "anitya",
                         "project-id": 1667,
                         "stable-only": true,
-                        "url-template": "https://ftp.gnu.org/gnu/mpc/mpc-$version.tar.gz"
+                        "url-template": "https://ftp.gnu.org/gnu/mpc/mpc-$version.tar.xz"
                     }
                 }
             ]
