@@ -28,8 +28,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://ftp.gnu.org/gnu/mpc/mpc-1.3.1.tar.gz",
-                    "sha256": "ab642492f5cf882b74aa0cb730cd410a81edcdbec895183ce930e706c1c759b8",
+                    "url": "https://ftp.gnu.org/gnu/mpc/mpc-1.4.1.tar.xz",
+                    "sha256": "91204cd32f164bd3b7c992d4a6a8ce6519511aadab30f78b6982d0bf8d73e931",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1667,
@@ -49,8 +49,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.3/src/kcalc-26.04.3.tar.xz",
-                    "sha256": "45bd63e3791eaef421a7e0172ce26f5df8da5be5f5d1052cb23be72e25685208",
+                    "url": "https://download.kde.org/stable/release-service/26.08.1/src/kcalc-26.08.1.tar.xz",
+                    "sha256": "24d7b07dcac6e248354e8a4032cc91340f4ca2333f83964808adfa44b4bae096",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
